@@ -1,0 +1,15 @@
+﻿EmployeeKey,SalesTerritoryKey,FirstName,LastName,Full_Name,JobTitle,EmailAddress,Phone,Gender,DepartmentName,Status
+281,2,Michael,Blythe,Michael Blythe,Sales Rep,michael9@adventure-works.com,257-555-0154,Male,Sales,Current
+282,4,Linda,Mitchell,Linda Mitchell,Sales Rep,linda3@adventure-works.com,883-555-0116,Female,Sales,Current
+283,3,Jillian,Carson,Jillian Carson,Sales Rep,jillian0@adventure-works.com,517-555-0117,Female,Sales,Current
+284,6,Garrett,Vargas,Garrett Vargas,Sales Rep,garrett1@adventure-works.com,922-555-0165,Male,Sales,Current
+285,5,Tsvi,Reiter,Tsvi Reiter,Sales Rep,tsvi0@adventure-works.com,664-555-0112,Male,Sales,Current
+286,1,Pamela,Ansman-Wolfe,Pamela Ansman-Wolfe,Sales Rep,pamela0@adventure-works.com,340-555-0193,Female,Sales,Current
+287,4,Shu,Ito,Shu Ito,Sales Rep,shu0@adventure-works.com,330-555-0120,Male,Sales,Current
+288,6,José,Saraiva,José Saraiva,Sales Rep,josé1@adventure-works.com,185-555-0169,Male,Sales,Current
+289,1,David,Campbell,David Campbell,Sales Rep,david8@adventure-works.com,740-555-0182,Male,Sales,Current
+291,10,Jae,Pak,Jae Pak,Sales Rep,jae0@adventure-works.com,1 (11) 500 555-0145,Female,Sales,Current
+292,7,Ranjit,Varkey Chudukatil,Ranjit Varkey Chudukatil,Sales Rep,ranjit0@adventure-works.com,1 (11) 500 555-0117,Male,Sales,Current
+293,1,Tete,Mensa-Annan,Tete Mensa-Annan,Sales Rep,tete0@adventure-works.com,615-555-0153,Male,Sales,Current
+295,8,Rachel,Valdez,Rachel Valdez,Sales Rep,rachel0@adventure-works.com,1 (11) 500 555-0140,Female,Sales,Current
+296,9,Lynn,Tsoflias,Lynn Tsoflias,Sales Rep,lynn0@adventure-works.com,1 (11) 500 555-0190,Female,Sales,Current
